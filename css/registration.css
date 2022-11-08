@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(245, 153, 153);
+    margin-top: 50px;
+
+}
+div{
+    background-color: rgb(137, 137, 243);
+    width: 400px;
+    height: 580px;
+    margin: auto;
+    text-align: center;
+   margin-top: 20px;
+   border:solid  5px blue;
+  
+}
+h1{
+    padding-top: 25px;
+   
+}
+img{
+    box-shadow: 3px 3px 10px;
+}
+hr{
+    height: 2px;
+    background-color: blue;
+}
+.input{
+    width: 50%;
+    height: 20px;
+    text-align: center;
+    border-color: blue;
+    border-radius: 10px 0px 10px;
+    color: white;
+    background-color: rgb(39, 40, 41);
+}
+.input:hover{
+    background-color: rgb(81, 81, 110);
+}
+.submit{
+    width: 40%;
+    height: 25px;
+    background-color: rgb(39, 40, 41);
+    color: white;
+    border-radius: 15Px;
+    border-color: blue;
+}
+.gander{
+    border:solid  2px blue;
+    width: 30px;
+    text-align: center;
+   
+}
